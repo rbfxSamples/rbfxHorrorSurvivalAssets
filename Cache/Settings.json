@@ -1,0 +1,12 @@
+{
+"settings": [
+{
+"key": "FullScreen",
+"type": "Bool",
+"value": false
+}
+],
+"plugins": [
+"HorrorSurvival"
+]
+}
