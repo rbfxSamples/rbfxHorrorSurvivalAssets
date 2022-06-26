@@ -7,7 +7,12 @@
 			}
 		]
 	},
-	"plugins": [],
+	"plugins": [
+		{
+			"name": "HorrorSurvival",
+			"private": false
+		}
+	],
 	"resourcePaths": [
 		"Data/",
 		"CoreData/"
